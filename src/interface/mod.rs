@@ -154,10 +154,7 @@ impl Interface {
             Self::draw_system_logs(f, &stats.latest_thoughts, main_layout[3]);
             Self::draw_status_bar(f, &stats);
         })?;
-        Ok(Box::new(std::io::Error::new(
-            std::io::ErrorKind::Other,
-            "Simulation complete"
-        )))
+        Ok(())
     }
 
     fn draw_view_panel(

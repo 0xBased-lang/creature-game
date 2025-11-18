@@ -1,0 +1,11 @@
+{
+  "id": "test_004",
+  "content": "Efficiency gains from optimization must be balanced against the need for exploration. A colony that exploits known resources efficiently may miss superior opportunities requiring temporary inefficiency to discover.",
+  "timestamp": "2025-11-18T14:20:00Z",
+  "relevance_score": 0.73,
+  "context_tags": ["efficiency", "optimization", "exploration", "trade-offs"],
+  "real_time_factors": ["evolutionary algorithms"],
+  "confidence_score": 0.81,
+  "ascii_visualization": null,
+  "referenced_thoughts": []
+}

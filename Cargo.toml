@@ -3,6 +3,10 @@ name = "creature"
 version = "0.1.0"
 edition = "2021"
 
+[[bin]]
+name = "thought_logger"
+path = "src/bin/thought_logger.rs"
+
 [dependencies]
 tokio = { version = "1.0", features = ["full"] }
 clap = "3.0"
